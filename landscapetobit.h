@@ -1,0 +1,2 @@
+int createfrommatrix(int x_size, int y_size, int red, int green, int blue,double *ptom, char name[]);
+int createfrommatrix2(int x_size, int y_size, int red, int green, int blue,double *ptom,char name[]);
